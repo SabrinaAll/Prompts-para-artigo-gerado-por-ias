@@ -3,7 +3,7 @@ Como criar um Artigo gerado por IA
 
 <p align="center">
 <img 
-    src="dkfnoieknf.png"
+    src="img7.jpg"
     width="400"  
 />
 </p>
