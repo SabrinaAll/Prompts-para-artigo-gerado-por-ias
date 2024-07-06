@@ -15,7 +15,7 @@ Como criar um Artigo gerado por IA
 
 Projeto com o objetivo de gerar um Artigo com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-<a href="Ebook Redes Neuraus Artificiais.pdf" title="View PDF now"> 📕Clique aqui para ler o Artigo</a>
+<a href="https://web.dio.me/articles/dos-sensores-a-sensibilidade-o-papel-da-ia-na-criacao-de-robos-com-capacidade-de-aprendizado-e-adaptacao?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o Artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
